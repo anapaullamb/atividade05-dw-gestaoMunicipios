@@ -1,6 +1,6 @@
 
 # API - Sistema Gestão de Municípios - Governo do Paraná [![Author](https://img.shields.io/badge/author-anapaullamb-7225d0?style=flat-square)](https://github.com/anapaullamb)
-Atividade 05 da disciplina de desenvolvimento web.
+Atividade 06 da disciplina de desenvolvimento web.
 ## Descrição
     1) Crie uma nova aplicação Laravel em sua última versão;
     2) Crie uma classe de controle “CidadeController” utilizando o parâmetro “-r”;
